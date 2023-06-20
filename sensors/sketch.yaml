@@ -1,0 +1,2 @@
+default_port: COM5
+default_fqbn: arduino:avr:uno
